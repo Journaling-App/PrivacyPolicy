@@ -1,6 +1,6 @@
 # Privacy Policy for BroodJournalling
 
-**Last Updated:** [Date]
+**Last Updated:** [5th September 2025]
 
 ## Introduction
 
@@ -55,10 +55,6 @@ You have the following rights regarding your personal information:
 
 To exercise these rights, please contact us using the information provided below.
 
-## Data Protection for Minors
-
-Our service is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
-
 ## International Data Transfers
 
 If you are located outside of our primary operating jurisdiction, please be aware that your information may be transferred to, stored, and processed in countries where our servers are located. We ensure appropriate safeguards are in place for such transfers.
@@ -71,8 +67,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email:** [Your Contact Email]
-**Address:** [Your Business Address]
+**Email:** [broodjournalling@gmail.com]
 
 ## Consent
 
